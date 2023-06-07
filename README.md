@@ -12,7 +12,7 @@ Requisitos Funcionais.
 2 - Solicitação de serviço - O sistema deve permitir que o cliente possa solicitar serviço, quando da sua solicitação é armazenado horarios disponiveis e localização, podendo ser armazenado foto do veiculo.
 3 - Permitir aceite de serviço - O sistema deve disponibilizar ao lavador um mapa o qual ficaram marcadas as solicitações de serviço, olavador podera aceitar serviço solicitado.
 4 - Notificação de aceite - O CarWash deve notificar o cliente quando sua solicitação for aceita.
-5 - Segurança - O sistema deve apenas permitir acesso a usuarios cadatrados
+5 - Segurança - O sistema deve apenas permitir acesso a usuarios cadastrados
 
 
 
